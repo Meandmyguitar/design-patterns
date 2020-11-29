@@ -30,12 +30,15 @@
         <module>flyweight-pattern</module>
         <!-- 组合模式 -->
         <module>composite-pattern</module>
+        <!-- 适配器模式 -->
+        <module>adapter-pattern</module>
+        <!-- 桥接模式 -->
+        <module>bridge-pattern</module>
 
         <module>pattern-interpreter</module>
         <module>pattern-mediator</module>
         <module>pattern-observer</module>
         <module>pattern-visitor</module>
-        <module>factory-pattern</module>
     </modules>
 
 </project>

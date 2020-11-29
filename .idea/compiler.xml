@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="bridge-pattern" />
         <module name="facade-pattern" />
         <module name="factory-pattern" />
         <module name="composite-pattern" />
@@ -15,6 +16,7 @@
         <module name="pattern-visitor" />
         <module name="pattern-interpreter" />
         <module name="pattern-mediator" />
+        <module name="adapter-pattern" />
         <module name="proxy-pattern" />
         <module name="prototype-pattern" />
         <module name="singleton-pattern" />
