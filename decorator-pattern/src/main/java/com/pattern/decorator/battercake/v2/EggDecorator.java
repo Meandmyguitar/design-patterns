@@ -7,7 +7,7 @@ public class EggDecorator extends BattercakeDecorator {
     }
 
     protected String getMsg() {
-        return super.getMsg() + "1个鸡蛋";
+        return super.getMsg() + "+1个鸡蛋";
     }
 
     public int getPrice() {

@@ -13,6 +13,8 @@
         <option value="$PROJECT_DIR$/gupaoedu-vip-pattern-prototype/pom.xml" />
         <option value="$PROJECT_DIR$/gupaoedu-vip-pattern-proxy/pom.xml" />
         <option value="$PROJECT_DIR$/facade-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/flyweight-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/composite-pattern/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

@@ -10,8 +10,6 @@ public class Test {
 
         battercake = new EggDecorator(battercake);
 
-        battercake = new EggDecorator(battercake);
-
         battercake = new SauageDecorator(battercake);
 
         System.out.println(battercake.getMsg() + ",总价" + battercake.getPrice());

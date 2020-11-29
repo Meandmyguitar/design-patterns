@@ -26,7 +26,10 @@
         <module>facade-pattern</module>
         <!-- 装饰器模式 -->
         <module>decorator-pattern</module>
-
+        <!-- 享元模式 -->
+        <module>flyweight-pattern</module>
+        <!-- 组合模式 -->
+        <module>composite-pattern</module>
 
         <module>pattern-interpreter</module>
         <module>pattern-mediator</module>
