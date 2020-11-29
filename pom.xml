@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.demo</groupId>
+    <artifactId>design-patterns</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+
+    <name>design-patterns</name>
+
+    <modules>
+        <!-- 工厂模式 -->
+        <module>factory-pattern</module>
+        <!-- 单例模式 -->
+        <module>singleton-pattern</module>
+        <!-- 原型模式 -->
+        <module>prototype-pattern</module>
+        <!-- 创建者模式 -->
+        <module>builder-pattern</module>
+        <!-- 代理模式 -->
+        <module>proxy-pattern</module>
+        <!-- 门面模式 -->
+        <module>facade-pattern</module>
+        <!-- 装饰器模式 -->
+        <module>decorator-pattern</module>
+
+
+        <module>pattern-interpreter</module>
+        <module>pattern-mediator</module>
+        <module>pattern-observer</module>
+        <module>pattern-visitor</module>
+        <module>factory-pattern</module>
+    </modules>
+
+</project>
