@@ -5,7 +5,7 @@ import org.apache.ibatis.session.SqlSessionFactoryBuilder;
 import org.springframework.beans.factory.support.BeanDefinitionBuilder;
 
 /**
- * Created by Tom
+ * Created by wangzhengpeng
  */
 public class Test {
     public static void main(String[] args) {

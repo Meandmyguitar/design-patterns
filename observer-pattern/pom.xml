@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.wzp.demo</groupId>
-    <artifactId>gupaoedu-vip-pattern-observer</artifactId>
+    <artifactId>observer-pattern</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>

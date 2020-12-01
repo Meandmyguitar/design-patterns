@@ -9,6 +9,7 @@
         <module name="bridge-pattern" />
         <module name="facade-pattern" />
         <module name="visitor-pattern" />
+        <module name="state-pattern" />
         <module name="template-pattern" />
         <module name="factory-pattern" />
         <module name="composite-pattern" />
@@ -16,6 +17,7 @@
         <module name="mediator-pattern" />
         <module name="delegate-pattern" />
         <module name="observer-pattern" />
+        <module name="memento-pattern" />
         <module name="flyweight-pattern" />
         <module name="adapter-pattern" />
         <module name="chain-pattern" />
@@ -30,5 +32,10 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="state-pattern" options="-parameters" />
+    </option>
   </component>
 </project>

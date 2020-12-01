@@ -23,6 +23,8 @@
         <option value="$PROJECT_DIR$/strategy-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/iterator-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/command-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/state-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/memento-pattern/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

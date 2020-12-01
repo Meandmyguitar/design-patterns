@@ -12,7 +12,7 @@ public class FileVisitorTest {
     public static void main(String[] args) {
         try {
             // 使用FileVisitor对目录进行遍历
-            Files.walkFileTree(Paths.get("E:", "WORKSPACE/gupaoedu-vip-pattern/gupaoedu-vip-pattern-visitor"), new SimpleFileVisitor<Path>() {
+            Files.walkFileTree(Paths.get("E:", "WORKSPACE/design-patterns/visitor-pattern"), new SimpleFileVisitor<Path>() {
 
                 // 在访问子目录前触发该方法
 

@@ -46,10 +46,17 @@
         <module>iterator-pattern</module>
         <!-- 命令模式 -->
         <module>command-pattern</module>
-
+        <!-- 状态模式 -->
+        <module>state-pattern</module>
+        <!-- 备忘录模式 -->
+        <module>memento-pattern</module>
+        <!-- 解释器模式 -->
         <module>interpreter-pattern</module>
+        <!-- 中介模式 -->
         <module>mediator-pattern</module>
+        <!-- 观察者模式 -->
         <module>observer-pattern</module>
+        <!-- 访问者模式 -->
         <module>visitor-pattern</module>
     </modules>
 

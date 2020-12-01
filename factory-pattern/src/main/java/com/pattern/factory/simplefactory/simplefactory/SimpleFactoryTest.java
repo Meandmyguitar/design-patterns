@@ -12,7 +12,7 @@ public class SimpleFactoryTest {
         //        course.record();
 
         //        ICourseFactory factory = new ICourseFactory();
-        //        ICourse course = factory.create("com.wzp.demo.pattern.factory.JavaCourse");
+        //        ICourse course = factory.create("com.wzp.demo.factory.JavaCourse");
         //        course.record();
 
         CourseFactory factory = new CourseFactory();
