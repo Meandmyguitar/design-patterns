@@ -1,7 +1,7 @@
 package com.pattern.observer.general;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class Test {
 

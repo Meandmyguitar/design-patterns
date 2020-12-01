@@ -3,7 +3,7 @@ package com.pattern.builder.simple;
 import lombok.Data;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 @Data
 public class Course {

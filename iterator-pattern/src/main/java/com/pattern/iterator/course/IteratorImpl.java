@@ -3,7 +3,7 @@ package com.pattern.iterator.course;
 import java.util.List;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class IteratorImpl<E> implements Iterator<E> {
     private List<E> list;

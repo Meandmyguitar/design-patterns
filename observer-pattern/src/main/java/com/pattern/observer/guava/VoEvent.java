@@ -3,7 +3,7 @@ package com.pattern.observer.guava;
 import com.google.common.eventbus.Subscribe;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class VoEvent {
 

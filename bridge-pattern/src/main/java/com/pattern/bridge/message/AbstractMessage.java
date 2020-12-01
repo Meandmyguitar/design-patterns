@@ -1,7 +1,7 @@
 package com.pattern.bridge.message;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public abstract class AbstractMessage {
 

@@ -1,7 +1,7 @@
 package com.pattern.proxy.staticproxy;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class ZhangSan implements IDoSomething {
 

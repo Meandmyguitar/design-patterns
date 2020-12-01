@@ -3,7 +3,7 @@ package com.pattern.observer.mouseevent.core;
 import java.lang.reflect.Method;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class Event {
     //事件源，动作是由谁发出的

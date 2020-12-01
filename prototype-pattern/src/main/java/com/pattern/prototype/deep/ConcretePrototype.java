@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 @Data
 public class ConcretePrototype implements Cloneable,Serializable {

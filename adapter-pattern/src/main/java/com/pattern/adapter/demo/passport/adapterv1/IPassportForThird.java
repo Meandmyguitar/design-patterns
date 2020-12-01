@@ -3,7 +3,7 @@ package com.pattern.adapter.demo.passport.adapterv1;
 import com.pattern.adapter.demo.passport.ResultMsg;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public interface IPassportForThird {
 

@@ -3,7 +3,7 @@ package com.pattern.adapter.demo.passport.adapterv2.adapters;
 import com.pattern.adapter.demo.passport.ResultMsg;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public interface ILoginAdapter {
     boolean support(Object object);

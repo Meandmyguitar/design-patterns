@@ -3,7 +3,7 @@ package com.pattern.chain.auth.optimiaze;
 import com.pattern.chain.auth.Member;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class LoginHandler extends Handler {
     public void doHandler(Member member) {

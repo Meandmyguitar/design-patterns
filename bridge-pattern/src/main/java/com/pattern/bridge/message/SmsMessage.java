@@ -1,7 +1,7 @@
 package com.pattern.bridge.message;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class SmsMessage implements IMessage {
     public void send(String message, String toUser) {

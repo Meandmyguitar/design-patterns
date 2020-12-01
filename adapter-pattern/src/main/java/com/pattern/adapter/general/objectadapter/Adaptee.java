@@ -1,7 +1,7 @@
 package com.pattern.adapter.general.objectadapter;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class Adaptee{
 

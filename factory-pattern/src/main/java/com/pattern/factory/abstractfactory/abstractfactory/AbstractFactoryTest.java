@@ -1,7 +1,7 @@
 package com.pattern.factory.abstractfactory.abstractfactory;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class AbstractFactoryTest {
 

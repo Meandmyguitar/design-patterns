@@ -1,7 +1,7 @@
 package com.pattern.delegate.simple;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class EmployeeB implements IEmployee {
     protected String goodAt = "平面设计";

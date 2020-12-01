@@ -4,7 +4,7 @@ import com.pattern.observer.mouseevent.core.EventContext;
 
 /**
  * 具体的被观察者
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class Mouse extends EventContext {
     public void click(){

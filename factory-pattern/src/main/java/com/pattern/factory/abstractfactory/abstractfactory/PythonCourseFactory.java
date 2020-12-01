@@ -6,7 +6,7 @@ import com.pattern.factory.abstractfactory.PythonNote;
 import com.pattern.factory.abstractfactory.PythonVideo;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class PythonCourseFactory extends CourseFactory {
 

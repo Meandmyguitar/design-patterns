@@ -2,7 +2,7 @@ package com.pattern.factory.abstractfactory;
 
 /**
  * Python笔记
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class PythonNote implements INote {
 

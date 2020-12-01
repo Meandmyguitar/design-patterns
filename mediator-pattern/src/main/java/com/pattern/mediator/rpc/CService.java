@@ -1,7 +1,7 @@
 package com.pattern.mediator.rpc;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class CService implements IService {
     Registy registy;

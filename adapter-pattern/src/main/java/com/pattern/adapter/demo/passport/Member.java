@@ -1,7 +1,7 @@
 package com.pattern.adapter.demo.passport;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class Member {
 

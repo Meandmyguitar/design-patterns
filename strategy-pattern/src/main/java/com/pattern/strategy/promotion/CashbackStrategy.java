@@ -1,7 +1,7 @@
 package com.pattern.strategy.promotion;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class CashbackStrategy implements IPromotionStrategy {
     public void doPromotion() {

@@ -1,7 +1,7 @@
 package com.pattern.template.course;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public abstract class AbastractCourse {
     

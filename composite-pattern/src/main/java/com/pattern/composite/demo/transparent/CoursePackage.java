@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class CoursePackage extends CourseComponent {
     private List<CourseComponent> items = new ArrayList<>();

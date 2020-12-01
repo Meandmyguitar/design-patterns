@@ -1,7 +1,7 @@
 package com.pattern.adapter.demo.power.classadapter;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class PowerAdapter extends AC220 implements DC5 {
     public int output5V() {

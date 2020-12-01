@@ -4,7 +4,7 @@ import com.pattern.adapter.demo.passport.PassportService;
 import com.pattern.adapter.demo.passport.ResultMsg;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class PassportForThirdAdapter extends PassportService implements IPassportForThird {
 

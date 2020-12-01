@@ -3,7 +3,7 @@ package com.pattern.visitor.kpi;
 import java.util.Random;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class Engineer extends Employee {
 

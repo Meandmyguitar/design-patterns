@@ -1,7 +1,7 @@
 package com.pattern.mediator.chatroom;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class ChatRoom {
 

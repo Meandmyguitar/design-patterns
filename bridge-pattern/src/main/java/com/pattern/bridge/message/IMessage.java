@@ -1,7 +1,7 @@
 package com.pattern.bridge.message;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public interface IMessage {
     //发送消息的内容和接收人

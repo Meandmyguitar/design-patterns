@@ -1,7 +1,7 @@
 package com.pattern.strategy.pay;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class MsgResult {
     private int code;

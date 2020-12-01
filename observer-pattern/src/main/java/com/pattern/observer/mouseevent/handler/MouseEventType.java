@@ -1,7 +1,7 @@
 package com.pattern.observer.mouseevent.handler;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public interface MouseEventType {
     String ON_CLICK = "click";

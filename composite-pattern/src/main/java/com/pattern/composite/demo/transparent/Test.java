@@ -1,7 +1,7 @@
 package com.pattern.composite.demo.transparent;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class Test {
 

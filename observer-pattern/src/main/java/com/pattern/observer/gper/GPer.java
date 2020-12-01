@@ -3,7 +3,7 @@ package com.pattern.observer.gper;
 import java.util.Observable;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class GPer extends Observable {
     private String name = "GPer生态圈";

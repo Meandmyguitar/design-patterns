@@ -1,7 +1,7 @@
 package com.pattern.visitor.dispatch.staticdispatch;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class Main {
     public void test(String string){

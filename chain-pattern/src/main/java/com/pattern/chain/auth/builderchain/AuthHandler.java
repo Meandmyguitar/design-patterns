@@ -3,7 +3,7 @@ package com.pattern.chain.auth.builderchain;
 import com.pattern.chain.auth.Member;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class AuthHandler extends Handler {
     public void doHandler(Member member) {

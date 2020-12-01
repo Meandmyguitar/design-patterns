@@ -5,7 +5,7 @@ import com.pattern.chain.auth.Member;
 import org.apache.commons.lang.StringUtils;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class MemberService {
 

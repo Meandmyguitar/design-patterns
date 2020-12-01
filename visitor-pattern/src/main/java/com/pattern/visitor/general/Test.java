@@ -1,7 +1,7 @@
 package com.pattern.visitor.general;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class Test {
 

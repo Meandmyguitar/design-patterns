@@ -3,7 +3,7 @@ package com.pattern.strategy.pay.payport;
 import com.pattern.strategy.pay.MsgResult;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public abstract class Payment {
 

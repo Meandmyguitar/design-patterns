@@ -11,7 +11,7 @@ import java.util.List;
 
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class MemberDao extends JdbcTemplate {
     public MemberDao(DataSource dataSource) {

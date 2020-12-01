@@ -1,7 +1,7 @@
 package com.pattern.visitor.kpi;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class CTOVistitor implements IVisitor {
 

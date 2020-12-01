@@ -1,7 +1,7 @@
 package com.pattern.factory.abstractfactory;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class PythonVideo implements IVideo {
     public void record() {

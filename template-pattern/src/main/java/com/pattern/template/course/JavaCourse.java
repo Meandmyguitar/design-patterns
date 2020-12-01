@@ -1,7 +1,7 @@
 package com.pattern.template.course;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class JavaCourse extends AbastractCourse {
     private boolean needCheckHomework = false;

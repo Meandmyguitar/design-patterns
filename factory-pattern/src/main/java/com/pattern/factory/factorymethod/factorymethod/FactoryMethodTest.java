@@ -3,7 +3,7 @@ package com.pattern.factory.factorymethod.factorymethod;
 import com.pattern.factory.factorymethod.ICourse;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class FactoryMethodTest {
 

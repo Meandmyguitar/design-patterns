@@ -1,7 +1,7 @@
 package com.pattern.proxy.dynamicproxy.myproxy.client;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public interface IPerson {
 

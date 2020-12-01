@@ -1,7 +1,7 @@
 package com.pattern.factory.factorymethod;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public interface ICourse {
     /**

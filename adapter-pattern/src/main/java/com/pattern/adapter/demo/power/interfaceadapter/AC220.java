@@ -1,7 +1,7 @@
 package com.pattern.adapter.demo.power.interfaceadapter;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class AC220 {
     public int outputAC220V(){

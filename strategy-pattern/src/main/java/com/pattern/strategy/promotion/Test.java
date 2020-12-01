@@ -1,7 +1,7 @@
 package com.pattern.strategy.promotion;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class Test {
     public static void main(String[] args) {

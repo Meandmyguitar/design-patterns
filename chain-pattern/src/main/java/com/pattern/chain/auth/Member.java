@@ -1,7 +1,7 @@
 package com.pattern.chain.auth;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class Member {
     private String loginName;

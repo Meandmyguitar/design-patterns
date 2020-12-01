@@ -1,7 +1,7 @@
 package com.pattern.template.jdbc.entity;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class Member {
 

@@ -1,7 +1,7 @@
 package com.pattern.adapter.demo.power.interfaceadapter;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public interface DC {
     int output5V();

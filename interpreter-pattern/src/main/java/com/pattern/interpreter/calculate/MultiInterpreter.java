@@ -1,7 +1,7 @@
 package com.pattern.interpreter.calculate;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class MultiInterpreter extends Interpreter {
 

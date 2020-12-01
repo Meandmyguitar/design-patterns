@@ -1,7 +1,7 @@
 package com.pattern.facade.points;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class Test {
 

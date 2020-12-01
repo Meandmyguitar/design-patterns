@@ -1,7 +1,7 @@
 package com.pattern.bridge.course;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public interface IVideo {
 }

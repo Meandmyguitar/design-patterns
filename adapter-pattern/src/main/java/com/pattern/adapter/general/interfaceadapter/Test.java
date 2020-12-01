@@ -2,7 +2,7 @@ package com.pattern.adapter.general.interfaceadapter;
 
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class Test {
     public static void main(String[] args) {

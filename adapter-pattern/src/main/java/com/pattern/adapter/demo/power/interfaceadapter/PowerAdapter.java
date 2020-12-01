@@ -1,7 +1,7 @@
 package com.pattern.adapter.demo.power.interfaceadapter;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class PowerAdapter implements DC {
     private AC220 ac220;

@@ -2,7 +2,7 @@ package com.pattern.adapter.general.interfaceadapter;
 
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public abstract class Adapter implements Target {
 

@@ -5,7 +5,7 @@ import com.pattern.observer.mouseevent.core.EventListener;
 
 /**
  * 观察者
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class MouseEventLisenter implements EventListener {
 

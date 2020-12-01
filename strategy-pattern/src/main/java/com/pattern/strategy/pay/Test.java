@@ -3,7 +3,7 @@ package com.pattern.strategy.pay;
 import com.pattern.strategy.pay.payport.PayStrategy;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class Test {
     public static void main(String[] args) {

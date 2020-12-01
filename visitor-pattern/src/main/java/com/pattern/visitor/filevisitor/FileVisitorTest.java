@@ -6,7 +6,7 @@ import java.nio.file.attribute.BasicFileAttributes;
 import java.util.List;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class FileVisitorTest {
     public static void main(String[] args) {

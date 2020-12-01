@@ -1,7 +1,7 @@
 package com.pattern.iterator.course;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public interface ICourseAggregate {
     void add(Course course);

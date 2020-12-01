@@ -5,7 +5,7 @@ import com.pattern.observer.mouseevent.handler.MouseEventLisenter;
 import com.pattern.observer.mouseevent.handler.MouseEventType;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class Test {
     public static void main(String[] args) {

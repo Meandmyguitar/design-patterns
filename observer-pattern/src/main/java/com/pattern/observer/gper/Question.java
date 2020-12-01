@@ -1,7 +1,7 @@
 package com.pattern.observer.gper;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class Question {
     private String userName;

@@ -1,7 +1,7 @@
 package com.pattern.adapter.general.interfaceadapter;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public interface Target {
     int request1();

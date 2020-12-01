@@ -4,7 +4,7 @@ package com.pattern.chain.auth.builderchain;
 import com.pattern.chain.auth.Member;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class MemberService {
 

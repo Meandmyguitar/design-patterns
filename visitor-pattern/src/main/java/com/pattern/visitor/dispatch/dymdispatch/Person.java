@@ -1,7 +1,7 @@
 package com.pattern.visitor.dispatch.dymdispatch;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public interface Person {
     void test();

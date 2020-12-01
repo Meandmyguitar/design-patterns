@@ -1,7 +1,7 @@
 package com.pattern.observer.guava;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class Vo {
     private String name;

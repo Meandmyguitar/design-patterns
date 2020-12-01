@@ -4,7 +4,7 @@ import com.pattern.factory.factorymethod.ICourse;
 import com.pattern.factory.factorymethod.JavaCourse;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class JavaCourseFactory implements ICourseFactory {
 

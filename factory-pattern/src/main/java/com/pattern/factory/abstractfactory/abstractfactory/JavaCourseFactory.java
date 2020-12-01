@@ -6,7 +6,7 @@ import com.pattern.factory.abstractfactory.JavaNote;
 import com.pattern.factory.abstractfactory.JavaVideo;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class JavaCourseFactory extends CourseFactory {
 

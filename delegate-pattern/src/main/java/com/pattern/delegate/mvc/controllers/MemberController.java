@@ -1,7 +1,7 @@
 package com.pattern.delegate.mvc.controllers;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class MemberController {
 

@@ -1,7 +1,7 @@
 package com.pattern.bridge.general;
 
 /**
- * Created by Tom.
+ * Created by wangzhengpeng
  */
 public class Test {
 
