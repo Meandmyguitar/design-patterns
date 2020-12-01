@@ -8,9 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="bridge-pattern" />
         <module name="facade-pattern" />
+        <module name="template-pattern" />
         <module name="factory-pattern" />
         <module name="composite-pattern" />
         <module name="decorator-pattern" />
+        <module name="delegate-pattern" />
         <module name="pattern-observer" />
         <module name="flyweight-pattern" />
         <module name="pattern-visitor" />
@@ -23,8 +25,6 @@
         <module name="builder-pattern" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="8">
-      <module name="flyweight-pattern" target="1.8" />
-    </bytecodeTargetLevel>
+    <bytecodeTargetLevel target="8" />
   </component>
 </project>

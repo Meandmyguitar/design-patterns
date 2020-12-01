@@ -34,6 +34,10 @@
         <module>adapter-pattern</module>
         <!-- 桥接模式 -->
         <module>bridge-pattern</module>
+        <!-- 委派模式 -->
+        <module>delegate-pattern</module>
+        <!-- 模版方法模式 -->
+        <module>template-pattern</module>
 
         <module>pattern-interpreter</module>
         <module>pattern-mediator</module>

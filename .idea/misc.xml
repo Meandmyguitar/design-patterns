@@ -17,6 +17,8 @@
         <option value="$PROJECT_DIR$/composite-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/adapter-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/bridge-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/delegate-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/template-pattern/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
