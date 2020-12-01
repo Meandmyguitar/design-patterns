@@ -38,6 +38,10 @@
         <module>delegate-pattern</module>
         <!-- 模版方法模式 -->
         <module>template-pattern</module>
+        <!-- 责任链模式 -->
+        <module>chain-pattern</module>
+        <!-- 策略模式 -->
+        <module>strategy-pattern</module>
 
         <module>pattern-interpreter</module>
         <module>pattern-mediator</module>

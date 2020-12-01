@@ -19,9 +19,11 @@
         <module name="pattern-interpreter" />
         <module name="pattern-mediator" />
         <module name="adapter-pattern" />
+        <module name="chain-pattern" />
         <module name="proxy-pattern" />
         <module name="prototype-pattern" />
         <module name="singleton-pattern" />
+        <module name="strategy-pattern" />
         <module name="builder-pattern" />
       </profile>
     </annotationProcessing>
