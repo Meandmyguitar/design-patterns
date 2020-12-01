@@ -42,11 +42,13 @@
         <module>chain-pattern</module>
         <!-- 策略模式 -->
         <module>strategy-pattern</module>
+        <!-- 迭代器模式 -->
+        <module>iterator-pattern</module>
 
-        <module>pattern-interpreter</module>
-        <module>pattern-mediator</module>
-        <module>pattern-observer</module>
-        <module>pattern-visitor</module>
+        <module>interpreter-pattern</module>
+        <module>mediator-pattern</module>
+        <module>observer-pattern</module>
+        <module>visitor-pattern</module>
     </modules>
 
 </project>

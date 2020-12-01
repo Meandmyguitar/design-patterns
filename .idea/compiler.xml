@@ -13,13 +13,10 @@
         <module name="composite-pattern" />
         <module name="decorator-pattern" />
         <module name="delegate-pattern" />
-        <module name="pattern-observer" />
         <module name="flyweight-pattern" />
-        <module name="pattern-visitor" />
-        <module name="pattern-interpreter" />
-        <module name="pattern-mediator" />
         <module name="adapter-pattern" />
         <module name="chain-pattern" />
+        <module name="iterator-pattern" />
         <module name="proxy-pattern" />
         <module name="prototype-pattern" />
         <module name="singleton-pattern" />
@@ -27,6 +24,11 @@
         <module name="builder-pattern" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="8" />
+    <bytecodeTargetLevel target="8">
+      <module name="interpreter-pattern" target="1.8" />
+      <module name="mediator-pattern" target="1.8" />
+      <module name="observer-pattern" target="1.8" />
+      <module name="visitor-pattern" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
